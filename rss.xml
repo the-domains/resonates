@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Resonates]]></title>
         <description><![CDATA[Resonates]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/resonates/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 07:05:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 07:28:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/resonates/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"Just because someone falls on their path and loses their way, it doesn't mean that is who they are. Anyone can change and become empowered." - Dr. Matt</p>]]></description>
+            <link>https://www.facebook.com/EmpowermentPartnership/photos/a.160427907761.117200.82093697761/10153571831987762/?type=3</link>
+            <guid isPermaLink="false">4b5d98fe-562e-4c3f-b2ff-d26e3939b37c</guid>
+            <pubDate>Wed, 30 Mar 2016 07:28:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to pull yourself out of a funk]]></title>
             <description><![CDATA[<article><h1>How to pull yourself out of a funk</h1><p>Tony Robbins: How to pull yourself out of a funk</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/500606a00e94749cc5d170f2a9c055ef68d07856.jpg"></article>]]></description>
