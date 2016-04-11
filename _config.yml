@@ -1,19 +1,4 @@
-name: Resonates
-favicon: null
-layout_spectrum: 0.5249561131931841
-typography_spectrum: 0.0332614341750741
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#9D2D3C'
@@ -21,8 +6,13 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.6221281012985855
-  lightness: 0.7622251391876489
-  saturation: 0.039037511916831136
-  rhythmicContrast: 0.9563593724742532
+  brandStrength: 0.222973
+  lightness: 0.788288
+  rhythmicContrast: 0.490991
+  saturation: 0.197072
+cta: {}
+layout_spectrum: 0.438063
+name: Resonates
+opengraph: {}
 purpose: []
+typography_spectrum: 0.288288
